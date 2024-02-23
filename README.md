@@ -1,10 +1,10 @@
-![MasterHead]([https://camo.githubusercontent.com/e126a18d81151f91956f6b6630f1a6f4a735bb6c9de2b7187c9e6016aa09077e/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif))
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Atif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1708473600&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atifmastermind&label=Profile%20views&color=0e75b6&style=flat" alt="atifmastermind" /> </p>
 
